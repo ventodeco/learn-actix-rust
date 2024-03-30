@@ -1,0 +1,5 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "./section-1/basic-actix/Cargo.toml"
+  ]
+}
