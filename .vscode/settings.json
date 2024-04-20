@@ -4,6 +4,7 @@
     "./section-1/extractor-app-data/Cargo.toml",
     "./section-1/extractor-path-json/Cargo.toml",
     "./section-1/responsers/Cargo.toml",
-    "./section-1/error-handling/Cargo.toml"
+    "./section-1/error-handling/Cargo.toml",
+    "./section-1/handlers/Cargo.toml"
   ]
 }
